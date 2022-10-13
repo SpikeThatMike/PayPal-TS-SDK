@@ -3,4 +3,4 @@ PayPal SDK for Typescript using PayPal's V2 API
 
 
 ## Progress
-- None, stop looking
+- None, stop looking weirdo
