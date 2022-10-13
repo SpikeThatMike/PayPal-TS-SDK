@@ -1,0 +1,31 @@
+{
+    "name": "paypal-ts-sdk",
+    "version": "1.0.0",
+    "description": "PayPal SDK for Typescript using PayPal's V2 API",
+    "main": "build/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "contributors": [
+        "SpikeThatMike (Discord - SpikeThatMike#6397)"
+    ],
+    "keywords": [
+        "paypal",
+        "typescript",
+        "sdk",
+        "paypal-sdk",
+        "paypal-ts-sdk"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SpikeThatMike/PayPal-TS-SDK.git"
+    },
+    "devDependencies": {
+        "typescript": "^4.8.4"
+    },
+    "author": "spikethatmike",
+    "bugs": {
+        "url": "https://github.com/SpikeThatMike/PayPal-TS-SDK/issues"
+    },
+    "homepage": "https://github.com/SpikeThatMike/PayPal-TS-SDK#readme"
+}
